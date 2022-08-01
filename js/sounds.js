@@ -1,7 +1,7 @@
 export default function () {
   const forestAudio = new Audio('./../src/Floresta.wav')
   const rainAudio = new Audio('./../src/Chuva.wav')
-  const shopAudio = new Audio('https://github.com/dsllt/FocusTimer/blob/main/src/Cafeteria.wav?raw=true')
+  const shopAudio = new Audio('https://github.com/dsllt/FocusTimer/blob/main/src/Cafeteria.wav')
   const fireAudio = new Audio('./../src/Lareira.wav')
   const finishAudio = new Audio(
     'https://github.com/maykbrito/automatic-video-creator/blob/master/audios/kichen-timer.mp3?raw=true'
