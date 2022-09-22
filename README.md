@@ -2,7 +2,7 @@
 
 <br>
 
-# ROCKETLINKS
+# FocusTimer
 Página desenvolvida para utilizar um Timer onde é possível determinar o tempo e escolher um som de plano de fundo.
 <br>
 Confira o site em: https://dsllt.github.io/FocusTimer/
